@@ -1,4 +1,0 @@
-﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (19.1.vcxproj, 19.二.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  线性表顺序表示大题.cpp
-E:\college\code\C(C++)_CODE\考研数据结构\顺序实现大题\线性表顺序表示大题.cpp(324): warning C4715: 'FindMinNum': not all control paths return a value
-  19.1.vcxproj -> E:\college\code\C(C++)_CODE\考研数据结构\顺序实现大题\Debug\第二章大题.exe
