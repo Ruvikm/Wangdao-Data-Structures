@@ -5,6 +5,11 @@ using namespace std;
 #define MaxSize 5
 #define ElemType int
 
+//P71.5
+//设有两个栈s1、s2都采用顺序栈方式, 并共享一个存储区[0, …, maxsize - 1]
+//为了尽量利用空间, 减少溢出的可能, 可采用栈顶相向、迎面增长的存储方式。
+//试设计s1,s2有关入栈和出栈的操作算法
+
 
 #pragma region P71.5建立共享顺序栈
 
