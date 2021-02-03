@@ -70,7 +70,7 @@ int main()
     CreatTree(t, input);
     PreOrder(t,1);
     cout << endl;
-    cout << "公共祖先为：" << FindCom_Ancestor(t, 10, 4);
+    cout << "公共祖先为：" << FindCom_Ancestor(t, 10, 4) << endl;
     return 0;
 }
 /* 
