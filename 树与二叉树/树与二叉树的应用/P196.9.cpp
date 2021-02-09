@@ -91,7 +91,7 @@ void FindX(BST_Tree T, ElemType X, Node*& r) {
 #pragma endregion
 
 
-//P195.9
+//P196.9
 //设计一个算法,求出给定二叉排序树中最小和最大的关键字
 
 void BestValue(BST_Tree T,int &min,int &max) {

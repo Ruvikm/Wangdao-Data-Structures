@@ -91,7 +91,7 @@ void FindX(BST_Tree T, ElemType X, Node*& r) {
 #pragma endregion
 
 
-//P195.10
+//P196.10
 //设计一个算法,从大到小输出二叉排序树中所有值不小于k的关键字
 
 void NotLessThan_K(BST_Tree T, int k) {

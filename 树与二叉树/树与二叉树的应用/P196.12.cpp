@@ -100,7 +100,7 @@ void FindX(BST_Tree T, ElemType X, Node*& r) {
 #pragma endregion
 
 
-//P195.12
+//P196.12
 //编写一个递归算法,在一棵有n个结点的、随机建立起来的二叉排序树上查找第k(1≤
 //≤n)小的元素, 并返回指向该结点的指针。要求算法的平均时间复杂度为O(log2n)
 //二叉排序树的每个结点中除data, lchild, child等数据成员外, 增加一个 count
